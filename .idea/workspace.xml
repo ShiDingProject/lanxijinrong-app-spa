@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecec4233-223d-44ba-8cea-f5b59e2d02e6" name="Default" comment="" />
+    <ignored path="cio_project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cio_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="question.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/question.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="record.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/record.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rule.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/rule.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topic_detail.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/topic_detail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="active_detail.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/active_detail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2376">
+              <caret line="101" column="48" lean-forward="false" selection-start-line="101" selection-start-column="48" selection-end-line="101" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/program_detail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding>
+                <element signature="e#122#128#0" expanded="true" />
+                <element signature="e#128#134#0" expanded="true" />
+                <element signature="e#403#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help_detail.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/help_detail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_detail.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/news_detail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="axios.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/axios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="55" column="65" lean-forward="false" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vue.js File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/info_home.vue" />
+        <option value="$PROJECT_DIR$/src/pages/expert.vue" />
+        <option value="$PROJECT_DIR$/src/pages/info.vue" />
+        <option value="$PROJECT_DIR$/src/pages/info/info_home.vue" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CADD7953_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/141CB182_edit.tmp/api.js" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CACBE965_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CACBE965_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/DFCC7C62_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/DFCC7C62_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/FD2F35F3_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/FD2F35F3_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/762030C5_edit.tmp/edit.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/762030C5_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/762030C5_edit.tmp/comment.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/A3D874A5_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/A3D874A5_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/2C5376C5_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/984F7AAE_edit.tmp/AdminArticleController.php" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/047CBD59_edit.tmp/AdminBaseController.php" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/EBF2CC99_edit.tmp/add.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/EBF2CC99_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/58DE99D7_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/6A199733_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/6DE07FAA_edit.tmp/admin.js" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/6A199733_edit.tmp/add.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/A2982F33_edit.tmp/admin.js" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/2A0E2772_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/2A0E2772_edit.tmp/reguserindex.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/add.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/F15E1F75_edit.tmp/add.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/0A94A895_edit.tmp/reguserindex.html" />
+        <option value="$PROJECT_DIR$/src/pages/register.vue" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/F15E1F75_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/0A94A895_edit.tmp/adduser.html" />
+        <option value="$PROJECT_DIR$/src/pages/info/info.vue" />
+        <option value="$PROJECT_DIR$/src/components/improve_information.vue" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CC3F7169_edit.tmp/adduser.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/8042BA72_edit.tmp/add.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/BAFC0CF0_edit.tmp/index.html" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/23603278_edit.tmp/admin.js" />
+        <option value="C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/BAFC0CF0_edit.tmp/add.html" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/service/ApiSetting.js" />
+        <option value="$PROJECT_DIR$/src/pages/program_detail.vue" />
+        <option value="$PROJECT_DIR$/src/pages/help_detail.vue" />
+        <option value="$PROJECT_DIR$/src/pages/news_detail.vue" />
+        <option value="$PROJECT_DIR$/src/pages/question.vue" />
+        <option value="$PROJECT_DIR$/src/pages/topic_detail.vue" />
+        <option value="$PROJECT_DIR$/src/pages/active_detail.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cio_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cio_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../潘老头" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\cio_project\src" />
+      <recent name="C:\Users\admin\Desktop\cio_project\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\cio_project\src\pages\info" />
+      <recent name="C:\Users\admin\Desktop\cio_project\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+      <item index="1" class="java.lang.String" itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="npm.dev" />
+        <item index="1" class="java.lang.String" itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecec4233-223d-44ba-8cea-f5b59e2d02e6" name="Default" comment="" />
+      <created>1508295393264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508295393264</updated>
+      <workItem from="1508295394895" duration="22703000" />
+      <workItem from="1508374540444" duration="26936000" />
+      <workItem from="1508460928213" duration="28977000" />
+      <workItem from="1508720183407" duration="22902000" />
+      <workItem from="1508806628318" duration="1211000" />
+      <workItem from="1508892897481" duration="32464000" />
+      <workItem from="1508978871461" duration="32235000" />
+      <workItem from="1509065833257" duration="29415000" />
+      <workItem from="1509324786700" duration="28013000" />
+      <workItem from="1509411280052" duration="29185000" />
+      <workItem from="1509497695654" duration="28581000" />
+      <workItem from="1509583704064" duration="30251000" />
+      <workItem from="1509670399979" duration="19668000" />
+      <workItem from="1509929363157" duration="27888000" />
+      <workItem from="1510016381860" duration="7829000" />
+      <workItem from="1531304670003" duration="6000" />
+      <workItem from="1531356972056" duration="1319000" />
+      <workItem from="1531360608607" duration="7946000" />
+      <workItem from="1531878898152" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="378144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.74788135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.049395163" sideWeight="0.50883573" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27754238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25052083" sideWeight="0.25211865" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.049395163" sideWeight="0.49116424" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CACBE965_edit.tmp/adduser.html</url>
+          <line>421</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/FD2F35F3_edit.tmp/adduser.html</url>
+          <line>649</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/add.html</url>
+          <line>447</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/FA6920EA_edit.tmp/webuploader.css" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/edit.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/add.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/2A0E2772_edit.tmp/adduser.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/2A0E2772_edit.tmp/reguserindex.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/A2982F33_edit.tmp/admin.js" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/E05F7811_edit.tmp/index.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/F15E1F75_edit.tmp/edit.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/0A94A895_edit.tmp/index.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/F15E1F75_edit.tmp/add.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/0A94A895_edit.tmp/reguserindex.html" />
+    <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register.vue" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/F15E1F75_edit.tmp/index.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/0A94A895_edit.tmp/adduser.html" />
+    <entry file="file://$PROJECT_DIR$/src/pages/info/info_home.vue" />
+    <entry file="file://$PROJECT_DIR$/src/pages/info/info.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/improve_information.vue" />
+    <entry file="file://$PROJECT_DIR$/src/pages/info/technology.vue" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/12E8298E_edit.tmp/common.js" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CC3F7169_edit.tmp/reguserindex.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/8042BA72_edit.tmp/index.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/7EE51842_edit.tmp/add.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/8042BA72_edit.tmp/add.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/CC3F7169_edit.tmp/adduser.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/BAFC0CF0_edit.tmp/index.html" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/40558AEC_edit.tmp/adminindex.js" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/23603278_edit.tmp/admin.js" />
+    <entry file="file://C:/Program Files (x86)/FlashFXP/Cache/~flashfxp/BAFC0CF0_edit.tmp/add.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/rem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="14" column="66" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/apiUrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/fetch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2064">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/mUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/apiConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2608">
+          <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/cDividers.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ApiSetting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="48" column="59" lean-forward="false" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="55" column="65" lean-forward="false" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/active_detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="101" column="48" lean-forward="false" selection-start-line="101" selection-start-column="48" selection-end-line="101" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/help_detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/news_detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/program_detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="e#122#128#0" expanded="true" />
+            <element signature="e#128#134#0" expanded="true" />
+            <element signature="e#403#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/question.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/record.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/rule.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/topic_detail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
